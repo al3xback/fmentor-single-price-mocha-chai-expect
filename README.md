@@ -20,7 +20,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Mocha - Chai Testing (BDD Expect style)
+- Mocha - Chai (BDD Expect style)
 - Mobile-first workflow
 
 ## Author
