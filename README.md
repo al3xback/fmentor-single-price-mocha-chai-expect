@@ -20,7 +20,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Mocha - Chai (BDD Expect style)
+- Mocha
+- Chai (BDD Expect style)
 - Got
 - Jsdom
 - Mobile-first workflow
